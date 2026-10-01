@@ -1,29 +1,19 @@
-# Conjunto de datos de rutinas de ejercicio y aptitud física
+## Key Features:
 
-Este conjunto de datos ofrece una visión detallada de las rutinas de ejercicio, los atributos físicos y las métricas de aptitud física de los socios del gimnasio. Contiene **973 muestras de datos**, incluyendo indicadores clave de rendimiento como la frecuencia cardíaca, las calorías quemadas y la duración del entrenamiento.
+- **Age:** Age of the gym member.
+- **Gender:** Gender of the gym member (Male or Female).
+- **Weight (kg):** Member’s weight in kilograms.
+- **Height (m):** Member’s height in meters.
+- **Max_BPM:** Maximum heart rate (beats per minute) during workout sessions.
+- **Avg_BPM:** Average heart rate during workout sessions.
+- **Resting_BPM:** Heart rate at rest before workout.
+- **Session_Duration (hours):** Duration of each workout session in hours.
+- **Calories_Burned:** Total calories burned during each session.
+- **Workout_Type:** Type of workout performed (e.g., Cardio, Strength, Yoga, HIIT).
+- **Fat_Percentage:** Body fat percentage of the member.
+- **Water_Intake (liters):** Daily water intake during workouts.
+- **Workout_Frequency (days/week):** Number of workout sessions per week.
+- **Experience_Level:** Level of experience, from beginner (1) to expert (3).
+- **BMI:** Body Mass Index, calculated from height and weight.
 
-Cada entrada también incluye datos demográficos y niveles de experiencia, lo que permite realizar un análisis exhaustivo de los patrones de aptitud física, la progresión de los atletas y las tendencias de salud.
-
-## Características principales
-
-- **Edad:** Edad del socio del gimnasio.
-- **Género:** Género del socio del gimnasio (Masculino o Femenino).
-- **Peso (kg):** Peso del miembro en kilogramos.
-- **Altura (m):** Altura del miembro en metros.
-- **Max_BPM:** Frecuencia cardíaca máxima (latidos por minuto) durante las sesiones de entrenamiento.
-- **Avg_BPM:** Frecuencia cardíaca promedio durante las sesiones de entrenamiento.
-- **Frecuencia cardíaca en reposo:** Frecuencia cardíaca en reposo antes del entrenamiento.
-- **Duración de la sesión (horas):** Duración de cada sesión de entrenamiento en horas.
-- **Calorías_Quemadas:** Total de calorías quemadas durante cada sesión.
-- **Workout_Type:** Tipo de entrenamiento realizado, por ejemplo, Cardio, Fuerza, Yoga o HIIT.
-- **Porcentaje de grasa:** Porcentaje de grasa corporal del miembro.
-- **Ingesta de agua (litros):** Ingesta diaria de agua durante los entrenamientos.
-- **Frecuencia de entrenamiento (días/semana):** Número de sesiones de entrenamiento por semana.
-- **Nivel de experiencia:** Nivel de experiencia, desde principiante (1) hasta experto (3).
-- **IMC:** Índice de Masa Corporal, calculado a partir de la altura y el peso.
-
-## Descripción del conjunto de datos
-
-Este conjunto de datos es ideal para **científicos de datos, investigadores de la salud y entusiastas del fitness** interesados en estudiar los hábitos de ejercicio, modelar la progresión del estado físico o analizar la relación entre datos demográficos y fisiológicos.
-
-Con una amplia variedad de variables, ofrece información valiosa sobre cómo diferentes factores pueden relacionarse con la **intensidad del entrenamiento, la resistencia y el estado físico general**.
+This dataset is ideal for data scientists, health researchers, and fitness enthusiasts interested in studying exercise habits, modeling fitness progression, or analyzing the relationship between demographic and physiological data. With a wide range of variables, it offers insights into how different factors affect workout intensity, endurance, and overall health.
